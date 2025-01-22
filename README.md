@@ -9,8 +9,8 @@ Also, integrate conversational form (book appointment) with tool-agents. Integra
 ### 1. Clone the Repository
 If you haven't already, clone the project repository:
 ```bash
-git clone <repository-url>
-cd <repository-folder>
+git clone [<repository-url>](https://github.com/kushaldahal0/AgentChatbot.git)
+cd AgentChatbot
 ```
 ### 2. Create and Activate a Virtual Environment
 It's recommended to use a virtual environment to manage dependencies:
