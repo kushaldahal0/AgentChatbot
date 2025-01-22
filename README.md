@@ -3,13 +3,18 @@ Chatbot that can answer user queries from any documents and add a conversational
 
 Also, integrate conversational form (book appointment) with tool-agents. Integration of  conversational form with agent-tools, extract complete date format like (YYYY-MM-DD) from users query (eg. Next Monday, and integrate validation in user input with conversational form (like email, phone number) etc.
 
+![Book Appointment](rmImages/'Screenshot 2025-01-22 155309.png')
+![Collect Form](rmImages/'Screenshot 2025-01-22 162640.png')
+![PDF Query](rmImages/'Screenshot 2025-01-22 151041.png')
+![PDF Summerization](rmImages/'Screenshot 2025-01-22 151010.png')
+
 
 ## Setup Instructions
 
 ### 1. Clone the Repository
 If you haven't already, clone the project repository:
 ```bash
-git clone [<repository-url>](https://github.com/kushaldahal0/AgentChatbot.git)
+git clone https://github.com/kushaldahal0/AgentChatbot.git
 cd AgentChatbot
 ```
 ### 2. Create and Activate a Virtual Environment
